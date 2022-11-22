@@ -12,7 +12,7 @@ const OurProtein = () => {
     <div className='px-[80px] py-10 bg-gray-100'>
             <h1 className='text-[40px] font-bold py-5 '>Our Protein</h1>
 
-            <div className="grid grid-cols-4 content-center items-center text-center font-bold  ">
+            <div className="grid grid-cols-4 justify-items-center items-center text-center font-bold  ">
                 <div className="card ">
                     <img src={img1} alt="" />
                     <p  className='text-[25px] font-semibold' >400$</p>
